@@ -1,0 +1,21 @@
+# 构建产物
+cmake-build-*/
+build/
+
+# 演示视频（走群作业提交，不入仓库）
+视频/
+
+# IDE 本地状态
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/runConfigurations/
+
+# 备份与中间文件
+*.bak
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
